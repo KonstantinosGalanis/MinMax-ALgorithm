@@ -24,10 +24,10 @@ the file is read successfully, the message “OK” is printed.
 
 ● -p: MinMax algorithm with alpha-beta pruning optimization is calculated for the tree.
 
-● -j <filepath>: Prints to file <filepath> the contents of the tree in format
+● -j `<filepath>`: Prints to file <filepath> the contents of the tree in format
 JSON. Finally, if the file is written successfully, the message “OK” is printed.
 
-● -d <filepath>: Prints to file <filepath> contents of tree in format
+● -d `<filepath>`: Prints to file <filepath> contents of tree in format
 suitable for the graphviz suite.Finally, if the file is written successfully, the message “OK” is printed.
 
 ● -q: Iiteration stops and the program terminates.
